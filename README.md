@@ -18,3 +18,11 @@ Ladakh is most famous for breathtaking landscapes, the crystal clear skies, the 
    1. Then last destination to Niagara Falls 
    2. Which takes around 4 hours drive from there
 4. Finally after a long 14 hours drive we'll reach to destination
+
+
+* Food Items
+* Camp equipment
+* Friends
+* Alcohol
+* Playing Cards
+
