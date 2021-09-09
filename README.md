@@ -42,3 +42,11 @@ Here there are some famous and delicios food items that I would like to recommen
 | Pasta | DLF towers | 15$ |
 | Pizza-Dosa | Ramki Bandi | 12$ |
 | KFC | KFC | 20$ |
+
+---
+
+### Pithy Quotes
+
+> "Life is what happens when you're busy making other plans". - *John Lennon*
+
+> "The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart". - *Helen Keller*
