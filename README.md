@@ -59,9 +59,9 @@ Here there are some famous and delicios food items that I would like to recommen
 
 [Click here to know more](https://en.wikipedia.org/wiki/Fibonacci_number)
 
-'''
-   pair<int, int> fib (int n) {
-      if (n == 0)
+```
+pair<int, int> fib (int n) {
+   if (n == 0)
         return {0, 1};
 
     auto p = fib(n >> 1);
@@ -73,7 +73,7 @@ Here there are some famous and delicios food items that I would like to recommen
         return {c, d};
 }
 
-'''
+```
 
 [Code Source](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 
