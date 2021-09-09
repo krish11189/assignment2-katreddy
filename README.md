@@ -10,7 +10,7 @@ Ladakh is most famous for breathtaking landscapes, the crystal clear skies, the 
 
 ---
 
-### Directions ti Niagara Falls:
+### Directions to Niagara Falls:
 
 1. Start from missouri by road
 2. On the way to Indiana
@@ -27,3 +27,18 @@ Ladakh is most famous for breathtaking landscapes, the crystal clear skies, the 
 * Playing Cards
 
 [Link to AboutMe](https://github.com/krish11189/assignment2-katreddy/blob/main/AboutMe.md)
+
+
+---
+
+## Items to recommend:
+
+Here there are some famous and delicios food items that I would like to recommend my friend he/she in Hyderabad.
+
+| Food/Drink | Place | Expected Price |
+|---|---|---|
+| Bamboo Biryani | Lambasingi | 10$|
+| Butter Chicken | Jalandhar | 15$ |
+| Pasta | DLF towers | 15$ |
+| Pizza-Dosa | Ramki Bandi | 12$ |
+| KFC | KFC | 20$ |
